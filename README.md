@@ -7,3 +7,5 @@ To load one, the airbase you start from has to have at least 1 nuclear warhead i
 Not intended to be airdropped. When you do, the container just breaks and your warheads are gone. No big explosion. Nukes cannot be set off by impact force alone. 
 
 (Seriously, look into what it takes to properly set off a nuke! You could blow the thing up with C4 and there´d be no nuclear chain reaction. You´d only spread the core material around, making a radioactive mess.)
+
+Disclosure: vibecoded
